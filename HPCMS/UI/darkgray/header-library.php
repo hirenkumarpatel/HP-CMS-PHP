@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?php echo $environment['theme_path'] . 'styles.css'; ?>" type="text/css" />
